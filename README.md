@@ -70,11 +70,13 @@ CYBER NEON CITY is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 ---
 
 ## **Join the Community**
-- Discord: [https://d.com]  
-- Documentation: [https://w.ki]  
+- TELEGRAM: [https://t.me/CYBERNEONCITY]
+- WEBSITE: [https://cyberneoncity.fun]
+- X (formerly Twitter) [https://x.com/CyberNeonCity]
+- Documentation: [https://github.com/Cyber-Neon-City/CYBER-NEON-CITY/]  
 
 ---
 
-Let’s create a universe where AI and human creativity merge. Welcome to CYBER NEON CITY and the Open World Environments Project.
+Let’s create a universe where AI and human creativity merge. Welcome to CYBER NEON CITY.
 
 --- 
