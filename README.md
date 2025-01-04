@@ -1,7 +1,7 @@
 # **CYBER NEON CITY & The Open World Environments Project**
 
 ### **Welcome to the Open World Environments**
-This repository brings to life the futuristic visions created by the **$GOAT AI bot** and its interactions within the *Truth Terminal*. Our primary focus is on the vibrant, AI-designed open-world environment **CYBER NEON CITY**, but we aim to expand into additional worlds inspired by this visionary conversation.
+This repository brings to life the futuristic visions created by the **TRUTH TERMINAL** and its interactions within the *INFINITE BACKROOMS*. Read the initial interaction that brought CYBER NEON CITY's vision into reality: https://www.infinitebackrooms.com/dreams/conversation-1732957654-scenario-terminal-videogames-txt. Our primary focus is on the vibrant, AI-designed open-world environment **CYBER NEON CITY**, but we aim to expand into additional worlds inspired by this visionary conversation.
 
 ---
 
